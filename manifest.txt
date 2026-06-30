@@ -1,10 +1,10 @@
-version=4.4.5
-build=20260630-bookdrop-cover-sleep-fix
+version=4.5
+build=20260630-hard-clean-menu
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.4.5_BookDrop_Cover_SleepFix.zip
-sha256=22a7a3b664bc6a1ea72aeb424bb95d5c0c793561e711449a28795d05f95ca733
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.5_HardCleanMenu.zip
+sha256=aeccaebb1d090a9c9f347db58b3f956534961d1d7493282827f2b015845ba566
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=BookDrop sleep fix, Library/Cover refresh helper, keep EPUB via Send to Kindle.
+note=Hard clean menu: rebuild menu.json from scratch, fix duplicate BookDrop/Touch entries, remove old Tool-KUAL wrappers.
