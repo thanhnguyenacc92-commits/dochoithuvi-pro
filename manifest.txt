@@ -1,10 +1,10 @@
-version=4.7
-build=20260630-bookdrop-onepage-stk
+version=4.8.1
+build=20260630-bookcloud-manifest-license-direct-cleanup
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.7_BookDrop_OnePage_SendToKindle.zip
-sha256=ba84b7d0dc95b44042326f3d9f98257b7b6e64ab9ddca499f4a3f492f551ad75
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.8.1_BookCloudManifest_Cleanup.zip
+sha256=2b9b3904865fff91ef2d987fd5bc82c1f0564687e1d762033ac03e111282da17
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=BookDrop one-page UI: no tabs, EPUB Send to Kindle integrated, Kindle email save button, faster BookDrop start.
+note=BookCloud manifest/Apps Script folder sync, license menu direct button, stronger silent cleanup, old .sh removed.
