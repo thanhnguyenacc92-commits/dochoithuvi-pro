@@ -1,10 +1,10 @@
-version=4.6
-build=20260630-v4-6-stable
+version=4.7
+build=20260630-bookdrop-onepage-stk
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.6_Stable.zip
-sha256=489f191c831361ec9a7d2bbb19949dc598d1049a18d591283312fc48147bfa40
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.7_BookDrop_OnePage_SendToKindle.zip
+sha256=ba84b7d0dc95b44042326f3d9f98257b7b6e64ab9ddca499f4a3f492f551ad75
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=Stable v4.6 release based on v4.5.2: clean ads menu, silent cleanup, hard-clean menu, auto-clean old versions.
+note=BookDrop one-page UI: no tabs, EPUB Send to Kindle integrated, Kindle email save button, faster BookDrop start.
