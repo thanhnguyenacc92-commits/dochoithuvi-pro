@@ -1,8 +1,11 @@
-UPLOAD GITHUB - DOCHOITHUVI-PRO v4.8.1
-======================================
+UPLOAD GITHUB - DOCHOITHUVI-PRO v4.9
+====================================
 
 Upload toàn bộ file trong gói này lên repo:
 https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
 
+Sau khi upload:
+Kindle -> Cập nhật Online -> Tải & cài bản mới nhất.
+
 SHA256:
-2b9b3904865fff91ef2d987fd5bc82c1f0564687e1d762033ac03e111282da17
+e06b8214a2fbd7135f9d1877a2a4ebfc91c45700c2469b2944499e68efc59469
