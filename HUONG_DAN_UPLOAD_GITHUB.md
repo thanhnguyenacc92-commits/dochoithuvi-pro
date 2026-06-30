@@ -1,2 +1,8 @@
-Upload toàn bộ file trong gói này lên repo https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
-SHA256: 64790f0be1582ea5f3f01d12ff26e0eee830cd82a7113b2ca4615ec0d6f7db0b
+UPLOAD GITHUB - v4.4.5 BOOKDROP COVER/SLEEP
+==========================================
+
+Upload toàn bộ file trong gói này lên repo:
+https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
+
+SHA256:
+22a7a3b664bc6a1ea72aeb424bb95d5c0c793561e711449a28795d05f95ca733
