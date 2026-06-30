@@ -1,5 +1,1 @@
 # Dochoithuvi-Pro update blacklist
-# Mỗi dòng là serial hoặc license_id cần khóa update.
-# Ví dụ:
-# G092AP03321208TH
-# DCPRO-20260625-1208TH

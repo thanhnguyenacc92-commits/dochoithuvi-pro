@@ -1,10 +1,10 @@
-version=4.4
-build=20260630-report-uploader-github-ready
+version=4.4.2
+build=20260630-local-report-fast-bookdrop
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.4_ReportUploader_GitHubReady.zip
-sha256=827706f60690d5f1099620704006a1637d6ad3e3000462ea0d8bf47e9ee96bbc
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.4.2_LocalReport_FastBookDrop.zip
+sha256=64790f0be1582ea5f3f01d12ff26e0eee830cd82a7113b2ca4615ec0d6f7db0b
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=Dochoithuvi-Pro v4.4 Report Uploader + Secure Online Update configured for thanhnguyenacc92-commits/dochoithuvi-pro.
+note=Local touch report only, BookDrop menu cleaned, faster BookDrop start, removed upload report scripts.
