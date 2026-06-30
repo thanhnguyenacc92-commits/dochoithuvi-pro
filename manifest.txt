@@ -1,10 +1,10 @@
-version=4.5
-build=20260630-hard-clean-menu
+version=4.6
+build=20260630-v4-6-stable
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.5_HardCleanMenu.zip
-sha256=aeccaebb1d090a9c9f347db58b3f956534961d1d7493282827f2b015845ba566
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.6_Stable.zip
+sha256=489f191c831361ec9a7d2bbb19949dc598d1049a18d591283312fc48147bfa40
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=Hard clean menu: rebuild menu.json from scratch, fix duplicate BookDrop/Touch entries, remove old Tool-KUAL wrappers.
+note=Stable v4.6 release based on v4.5.2: clean ads menu, silent cleanup, hard-clean menu, auto-clean old versions.

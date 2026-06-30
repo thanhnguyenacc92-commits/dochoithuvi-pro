@@ -1,11 +1,11 @@
-UPLOAD GITHUB - v4.5 HARD CLEAN MENU
+UPLOAD GITHUB - DOCHOITHUVI-PRO v4.6
 ====================================
 
 Upload toàn bộ file trong gói này lên repo:
 https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
 
 Files:
-- Dochoithuvi-Pro_v4.5_HardCleanMenu.zip
+- Dochoithuvi-Pro_v4.6_Stable.zip
 - manifest.txt
 - manifest.sig
 - blacklist.txt
@@ -15,8 +15,5 @@ Files:
 Sau khi upload:
 Kindle -> Cập nhật Online bảo mật -> Kiểm tra bản mới -> Tải & cài bản mới.
 
-Sau khi update:
-Thoát KUAL rồi mở lại để KUAL đọc menu mới Dochoithuvi-Pro_v4.5.
-
 SHA256:
-aeccaebb1d090a9c9f347db58b3f956534961d1d7493282827f2b015845ba566
+489f191c831361ec9a7d2bbb19949dc598d1049a18d591283312fc48147bfa40
