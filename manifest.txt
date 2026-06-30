@@ -1,0 +1,10 @@
+version=4.4
+build=20260630-report-uploader-github-ready
+channel=stable
+min_version=4.3
+root_folder=Dochoithuvi-Pro-Secret-Edition
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.4_ReportUploader_GitHubReady.zip
+sha256=827706f60690d5f1099620704006a1637d6ad3e3000462ea0d8bf47e9ee96bbc
+blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
+require_blacklist=0
+note=Dochoithuvi-Pro v4.4 Report Uploader + Secure Online Update configured for thanhnguyenacc92-commits/dochoithuvi-pro.
