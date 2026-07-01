@@ -1,10 +1,10 @@
-version=5.6
-build=20260701-v56-evdev-fbink-modules
+version=5.7
+build=20260702-v57-evdev-aware-auto-guardian
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.6_Evdev_FBInk.zip
-sha256=f23c0c6339480cfb85cf0e95ed3d3ea2a695cc9e6cb64ff7f38ce67d09474c46
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.7_EvdevAware_AutoGuardian.zip
+sha256=5a3753032a6318f929a9ad0215127482e4d82fea25d89c0a5bfb5c4c650312b8
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=v5.6 adds Input event/evdev test and FBInk/display test modules, one menu line each.
+note=v5.7 removes FBInk and focuses Auto Guardian on IRQ + evdev/input-event classification.

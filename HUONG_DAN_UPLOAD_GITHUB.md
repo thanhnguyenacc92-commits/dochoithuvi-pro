@@ -1,19 +1,18 @@
-UPLOAD GITHUB - DOCHOITHUVI-PRO v5.6
+UPLOAD GITHUB - DOCHOITHUVI-PRO v5.7
 ====================================
 
 Upload toàn bộ file trong gói này lên repo:
 https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
 
 Sau khi upload:
-Kindle -> Dochoithuvi-Pro_v5.5 -> Cập nhật Online -> Tải & cài bản mới nhất.
+Kindle -> Dochoithuvi-Pro_v5.6 -> Cập nhật Online -> Tải & cài bản mới nhất.
 
-Hai module test mới:
-04. Test Input event / evdev
-05. Test FBInk / màn hình
+Điểm mới:
+- Bỏ FBInk khỏi bản chính.
+- Auto Guardian dùng cả IRQ + Input event / evdev.
 
-Report tạo trong /mnt/us/documents:
-- dcpro_input_evdev_test_report.txt
-- dcpro_fbink_test_report.txt
+Khi bấm Auto Guardian:
+- Không chạm màn hình trong 30 giây đầu để test ghost touch chuẩn nhất.
 
 SHA256:
-f23c0c6339480cfb85cf0e95ed3d3ea2a695cc9e6cb64ff7f38ce67d09474c46
+5a3753032a6318f929a9ad0215127482e4d82fea25d89c0a5bfb5c4c650312b8
