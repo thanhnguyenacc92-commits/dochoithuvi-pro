@@ -1,10 +1,10 @@
-version=5.2
-build=20260701-v52-clean-unused-sh
+version=5.3.1
+build=20260701-v531-device-prefix-menu
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.2_CleanUnusedSH.zip
-sha256=ffa19ca70b9b002a2912234197e147b85039cd5b991da8b7ed6f91ceb4154bc2
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.3.1_DevicePrefixMenu.zip
+sha256=d402e584e00b64d9f92cb4b9b5af1256a2bc368c3f7290bcf906d57e830e5890
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=Clean v5.2 release: compact menu, unused .sh removed, generic auto-clean retained.
+note=v5.3.1 adds Basic 22/24 and PPW4 prefixes to touch menu items for easier customer selection.
