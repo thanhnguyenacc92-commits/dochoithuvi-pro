@@ -1,10 +1,10 @@
-version=5.0.1
-build=20260630-v501-forced-auto-clean
+version=5.1
+build=20260701-reading-safe-guardian
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.0.1_ForcedAutoClean.zip
-sha256=6202b52f4516e6fc64dd8ed43bb7b6fa59d2bb32c5bf743d0f006c813ecb407f
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.1_ReadingSafeGuardian.zip
+sha256=7ca8e05e0ff7df039dc5250d98277fefbcd4e44c0c4ee5bb896267d4809ee2c5
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=Hotfix forced auto-clean: old Dochoithuvi folders are moved immediately when new license_common is sourced after update.
+note=Reading Safe Guardian: less intrusive daily reading mode, Quick Heal one-shot, Emergency Storm Rescue limited to 60 seconds.
