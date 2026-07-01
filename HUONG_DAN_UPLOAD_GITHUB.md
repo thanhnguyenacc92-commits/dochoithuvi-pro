@@ -1,18 +1,26 @@
-UPLOAD GITHUB - DOCHOITHUVI-PRO v5.7
+UPLOAD GITHUB - DOCHOITHUVI-PRO v5.8
 ====================================
 
 Upload toàn bộ file trong gói này lên repo:
 https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
 
 Sau khi upload:
-Kindle -> Dochoithuvi-Pro_v5.6 -> Cập nhật Online -> Tải & cài bản mới nhất.
+Kindle -> Dochoithuvi-Pro_v5.7 -> Cập nhật Online -> Tải & cài bản mới nhất.
 
 Điểm mới:
-- Bỏ FBInk khỏi bản chính.
-- Auto Guardian dùng cả IRQ + Input event / evdev.
+- Bỏ dòng Test Input event / evdev khỏi menu.
+- Bỏ FBInk.
+- Auto Guardian vẫn dùng evdev ngầm.
+- Thông báo "Không chạm 30s" chỉ hiện ở test đầu.
+- Vòng lặp nền chạy im lặng.
+- Report ghi thêm app mode KOREADER / KINDLE_NATIVE_OR_IDLE.
 
-Khi bấm Auto Guardian:
-- Không chạm màn hình trong 30 giây đầu để test ghost touch chuẩn nhất.
+Khi test KOReader:
+1. Mở KOReader.
+2. Mở sách.
+3. Chạy Auto Guardian.
+4. Không chạm màn hình trong 30 giây đầu.
+5. Dùng 10-20 phút, rồi gửi report.
 
 SHA256:
-5a3753032a6318f929a9ad0215127482e4d82fea25d89c0a5bfb5c4c650312b8
+4abb88cf3e3974ea74cdf7aa926bbfe47e68a09a5fa8e9533249bf49da8f8297
