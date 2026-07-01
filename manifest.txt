@@ -1,10 +1,10 @@
-version=6.1
-build=20260702-v61-autocal-cleaner
+version=6.2
+build=20260702-v62-1click-one-report-clean
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.1_AutoCal_Cleaner.zip
-sha256=d9d4ecdec11899755870d10b8af72f96aaa06566a49ee80d2c1d2219e9c215ff
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.2_1Click_OneReport_Clean.zip
+sha256=e2191ce269630025b3d8ee0576898f4aa8c681d9601ae030bc048146c359c803
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=v6.1 improves Auto Guardian self-calibration and rewrites cleanup reports/logs.
+note=v6.2 renames Auto Guardian to 1-Click Auto Fix Touch, keeps only one report, removes Hotspot and stale scripts.

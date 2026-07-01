@@ -1,13 +1,15 @@
-UPLOAD GITHUB - DOCHOITHUVI-PRO v6.1
+UPLOAD GITHUB - DOCHOITHUVI-PRO v6.2
 ====================================
 
 Upload toàn bộ file trong gói này lên repo:
 https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
 
 Điểm mới:
-- Auto Guardian tự cân chỉnh, không bắt người dùng phải tuyệt đối không chạm 30 giây.
-- Dọn dẹp báo cáo/log viết lại mạnh hơn.
-- Hotspot Doctor vẫn chỉ đọc.
+- Đổi Auto Guardian thành 1-Click Auto Fix Touch.
+- Auto Fix Touch chỉ sinh 1 report:
+  /mnt/us/documents/DCPRO_1CLICK_AUTO_FIX_TOUCH_REPORT.txt
+- Bỏ Hotspot khỏi menu/package.
+- Xóa .sh thừa.
 
 SHA256:
-d9d4ecdec11899755870d10b8af72f96aaa06566a49ee80d2c1d2219e9c215ff
+e2191ce269630025b3d8ee0576898f4aa8c681d9601ae030bc048146c359c803
