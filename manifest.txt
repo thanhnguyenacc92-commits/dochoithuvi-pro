@@ -1,10 +1,10 @@
-version=5.8
-build=20260702-v58-koreader-quiet-auto-guardian
+version=5.9
+build=20260702-v59-hotspot-doctor-probe
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.8_KOReader_QuietAutoGuardian.zip
-sha256=4abb88cf3e3974ea74cdf7aa926bbfe47e68a09a5fa8e9533249bf49da8f8297
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.9_HotspotDoctor.zip
+sha256=0817ed9b33d6b097941acd91db5174582f628cb3693f370b93db342e50d10cb6
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=v5.8 removes separate evdev/FBInk menu, keeps evdev inside Auto Guardian, quiets background checks, and logs KOReader mode.
+note=v5.9 adds Hotspot Doctor read-only AP mode probe for checking if Kindle can become a Wi-Fi hotspot.
