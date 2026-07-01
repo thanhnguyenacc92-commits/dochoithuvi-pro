@@ -1,10 +1,10 @@
-version=5.9
-build=20260702-v59-hotspot-doctor-probe
+version=6.1
+build=20260702-v61-autocal-cleaner
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.9_HotspotDoctor.zip
-sha256=0817ed9b33d6b097941acd91db5174582f628cb3693f370b93db342e50d10cb6
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.1_AutoCal_Cleaner.zip
+sha256=d9d4ecdec11899755870d10b8af72f96aaa06566a49ee80d2c1d2219e9c215ff
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=v5.9 adds Hotspot Doctor read-only AP mode probe for checking if Kindle can become a Wi-Fi hotspot.
+note=v6.1 improves Auto Guardian self-calibration and rewrites cleanup reports/logs.
