@@ -1,10 +1,10 @@
-version=5.3.1
-build=20260701-v531-device-prefix-menu
+version=5.6
+build=20260701-v56-evdev-fbink-modules
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.3.1_DevicePrefixMenu.zip
-sha256=d402e584e00b64d9f92cb4b9b5af1256a2bc368c3f7290bcf906d57e830e5890
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.6_Evdev_FBInk.zip
+sha256=f23c0c6339480cfb85cf0e95ed3d3ea2a695cc9e6cb64ff7f38ce67d09474c46
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=v5.3.1 adds Basic 22/24 and PPW4 prefixes to touch menu items for easier customer selection.
+note=v5.6 adds Input event/evdev test and FBInk/display test modules, one menu line each.
