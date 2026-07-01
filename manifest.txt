@@ -1,10 +1,10 @@
-version=5.0
-build=20260630-v5-auto-clean-old-no-menu-refresh
+version=5.0.1
+build=20260630-v501-forced-auto-clean
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.0_AutoCleanUpdate.zip
-sha256=473133681bf2c2c4a0ce1976f1a43549c52aa855f3cd37bfafddf88f67ee53f3
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.0.1_ForcedAutoClean.zip
+sha256=6202b52f4516e6fc64dd8ed43bb7b6fa59d2bb32c5bf743d0f006c813ecb407f
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=Auto clean old Dochoithuvi versions after online update, remove stale .sh files, remove KUAL refresh/old-version cleanup menu items.
+note=Hotfix forced auto-clean: old Dochoithuvi folders are moved immediately when new license_common is sourced after update.
