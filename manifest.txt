@@ -1,10 +1,10 @@
-version=4.9
-build=20260630-update-menu-toggleads-silent
+version=5.0
+build=20260630-v5-auto-clean-old-no-menu-refresh
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v4.9_UpdateMenu_ToggleAdsSilent.zip
-sha256=e06b8214a2fbd7135f9d1877a2a4ebfc91c45700c2469b2944499e68efc59469
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v5.0_AutoCleanUpdate.zip
+sha256=473133681bf2c2c4a0ce1976f1a43549c52aa855f3cd37bfafddf88f67ee53f3
 blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
 require_blacklist=0
-note=ToggleAds cleanup icon runs silently; update menu renamed and simplified.
+note=Auto clean old Dochoithuvi versions after online update, remove stale .sh files, remove KUAL refresh/old-version cleanup menu items.
