@@ -1,14 +1,14 @@
-UPLOAD GITHUB - DOCHOITHUVI-PRO v5.1
-====================================
+UPLOAD GITHUB - DOCHOITHUVI-PRO v5.1.1
+======================================
 
 Upload toàn bộ file trong gói này lên repo:
 https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
 
-Sau khi upload:
-Kindle -> Cập nhật Online -> Tải & cài bản mới nhất.
-
-Khuyến nghị dùng hằng ngày:
-Kiểm tra & Fix lỗi cảm ứng -> Basic 2022 / Basic 2024 - Reading Safe -> Bật Smooth Guardian - chế độ đọc sách.
+Máy đang bị hiện v4.9 + v5.1:
+- Vào bản v4.9 hoặc v5.1, mục Cập nhật Online nếu thấy được.
+- Bấm Tải & cài bản mới nhất.
+- Sau update, v5.1.1 sẽ tự ẩn bản cũ.
+- Thoát KUAL mở lại hoặc restart Kindle.
 
 SHA256:
-7ca8e05e0ff7df039dc5250d98277fefbcd4e44c0c4ee5bb896267d4809ee2c5
+18c606c420549098c175a2b732e14646948ba81eb063967469142b5412293c8d
