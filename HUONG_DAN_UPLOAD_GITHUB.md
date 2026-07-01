@@ -1,14 +1,11 @@
-UPLOAD GITHUB - DOCHOITHUVI-PRO v5.1.1
-======================================
+UPLOAD GITHUB - DOCHOITHUVI-PRO v5.2
+====================================
 
 Upload toàn bộ file trong gói này lên repo:
 https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro
 
-Máy đang bị hiện v4.9 + v5.1:
-- Vào bản v4.9 hoặc v5.1, mục Cập nhật Online nếu thấy được.
-- Bấm Tải & cài bản mới nhất.
-- Sau update, v5.1.1 sẽ tự ẩn bản cũ.
-- Thoát KUAL mở lại hoặc restart Kindle.
+Sau khi upload:
+Kindle -> Dochoithuvi-Pro_v5.1.2 -> Cập nhật Online -> Tải & cài bản mới nhất.
 
 SHA256:
-18c606c420549098c175a2b732e14646948ba81eb063967469142b5412293c8d
+ffa19ca70b9b002a2912234197e147b85039cd5b991da8b7ed6f91ceb4154bc2
