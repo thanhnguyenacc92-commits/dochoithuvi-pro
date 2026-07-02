@@ -1,9 +1,9 @@
-version=6.4
-build=20260702-v64-compact-menu-no-extra-sh
+version=6.5
+build=20260702-v65-compact-no-restore-silent-cleaner
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.4_CompactMenu_CleanSH.zip
-sha256=e6aefb81a7bffa4bf02c64edc9ea9981bd04d5c0ced22e8420003b71b0e4b58e
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.5_Compact_NoRestore_SilentCleaner.zip
+sha256=ff288e98101d7f74ed0c8d0dea49d38347b333da4dca2d28745bd47ac0fd17c4
 require_blacklist=0
-note=v6.4 compact menu removes status, library refresh, touch report, hotspot/stale scripts; update menu renamed.
+note=v6.5 removes restore ads menu/script and makes cleanup silent without generating a cleanup report.
