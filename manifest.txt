@@ -1,10 +1,9 @@
-version=6.2
-build=20260702-v62-1click-one-report-clean
+version=6.4
+build=20260702-v64-compact-menu-no-extra-sh
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.2_1Click_OneReport_Clean.zip
-sha256=e2191ce269630025b3d8ee0576898f4aa8c681d9601ae030bc048146c359c803
-blacklist_url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/blacklist.txt
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.4_CompactMenu_CleanSH.zip
+sha256=e6aefb81a7bffa4bf02c64edc9ea9981bd04d5c0ced22e8420003b71b0e4b58e
 require_blacklist=0
-note=v6.2 renames Auto Guardian to 1-Click Auto Fix Touch, keeps only one report, removes Hotspot and stale scripts.
+note=v6.4 compact menu removes status, library refresh, touch report, hotspot/stale scripts; update menu renamed.
