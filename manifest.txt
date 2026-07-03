@@ -1,9 +1,9 @@
-version=6.5
-build=20260702-v65-compact-no-restore-silent-cleaner
+version=7.0
+build=20260703-v70-dual-engine-oneclick
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.5_Compact_NoRestore_SilentCleaner.zip
-sha256=ff288e98101d7f74ed0c8d0dea49d38347b333da4dca2d28745bd47ac0fd17c4
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v7.0_DualEngine_OneClick_Basic_PPW4.zip
+sha256=b086fbe6f11cabe967aa9ece893e936ea2bed7c4665a566646db29a6cbb367a8
 require_blacklist=0
-note=v6.5 removes restore ads menu/script and makes cleanup silent without generating a cleanup report.
+note=v7.0 uses one 1-Click button with two hidden engines: Basic IRQ/EVDEV Adaptive Engine and PPW4 FastStable Guardian.
