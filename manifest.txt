@@ -1,9 +1,11 @@
-version=6.5
-build=20260704-v65-clean-single-fix-touch-report
+version=7.9
+display_version=6.5
+build=20260704-v79-ota-compat-v65-clean-single
+display_build=20260704-v65-clean-single-fix-touch-report
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.5_CleanSingle_FixTouchReport.zip
-sha256=522cde1bb537867c4b92b78cc9a8b9553df81f651760dd3d346d84fd4c77772b
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.5_CleanSingle_FixTouchReport_OTA_COMPAT.zip
+sha256=5111583d57ca4e1a0a377fdec7812731575252a4c6a2c8bbd145a54d1093d3c4
 require_blacklist=0
-note=v6.5 clean single Fix Touch report. Basic and PPW4 are integrated behind one 1-Click button. QUIET stays in standby monitor and never auto-offs.
+note=OTA-compatible release. User-facing tool remains v6.5 Clean Single Fix Touch Report, but manifest version is 7.9 so updater can install over previous v7.x builds.
