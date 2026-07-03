@@ -1,9 +1,9 @@
-version=7.6
-build=20260703-v76-cleansh-ppw4-faststable-integrated
+version=6.5
+build=20260704-v65-clean-single-fix-touch-report
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v7.6_CleanSH_PPW4FastStable_Integrated.zip
-sha256=ad69dc5460f76267a60b47300e62154d63f1e809c037796ef46e6d0afa9ee922
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.5_CleanSingle_FixTouchReport.zip
+sha256=522cde1bb537867c4b92b78cc9a8b9553df81f651760dd3d346d84fd4c77772b
 require_blacklist=0
-note=v7.6 cleans redundant .sh files and keeps PPW4 FastStable Guardian integrated behind the same 1-Click button. The cleaner no longer deletes ppw4_faststable_guardian_start.sh.
+note=v6.5 clean single Fix Touch report. Basic and PPW4 are integrated behind one 1-Click button. QUIET stays in standby monitor and never auto-offs.
