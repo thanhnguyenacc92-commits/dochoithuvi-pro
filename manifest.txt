@@ -1,9 +1,9 @@
-version=7.0
-build=20260703-v70-dual-engine-oneclick
+version=7.6
+build=20260703-v76-cleansh-ppw4-faststable-integrated
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v7.0_DualEngine_OneClick_Basic_PPW4.zip
-sha256=b086fbe6f11cabe967aa9ece893e936ea2bed7c4665a566646db29a6cbb367a8
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v7.6_CleanSH_PPW4FastStable_Integrated.zip
+sha256=ad69dc5460f76267a60b47300e62154d63f1e809c037796ef46e6d0afa9ee922
 require_blacklist=0
-note=v7.0 uses one 1-Click button with two hidden engines: Basic IRQ/EVDEV Adaptive Engine and PPW4 FastStable Guardian.
+note=v7.6 cleans redundant .sh files and keeps PPW4 FastStable Guardian integrated behind the same 1-Click button. The cleaner no longer deletes ppw4_faststable_guardian_start.sh.
