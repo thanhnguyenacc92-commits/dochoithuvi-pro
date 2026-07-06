@@ -1,10 +1,10 @@
-version=8.3
-display_version=6.8.3
-build=20260706-v683-keep-main-lab-v69
+version=8.4
+display_version=6.8.10b
+build=20260706-v68-lab-v610b-compat-safe
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8.3_KeepMain_Lab_v6.9.zip
-sha256=bac6e6486eec567071bd3549c857e2553b3df9b1a29de009b8a195bd20580d69
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_Lab_v6.10b_CompatibilitySafe.zip
+sha256=0de5273f72eabe6e48b2ae4d91b46552cc676ac1ac31e282eccb39f691baebb4
 require_blacklist=0
-note=Based on user-provided Dochoithuvi-Pro v6.8. Keeps main tool and updates embedded Lab to v6.9.
+note=Keeps Dochoithuvi-Pro v6.8 main tool and Lab v6.10, with compatibility stubs for old Basic/PPW4 touch engine filenames.
