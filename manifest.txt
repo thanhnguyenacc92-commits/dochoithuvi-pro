@@ -1,10 +1,10 @@
-version=8.4
-display_version=6.8.10b
-build=20260706-v68-lab-v610b-compat-safe
+version=8.5
+display_version=6.8
+build=20260707-v68-lab-v611-no-license-info-menu
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_Lab_v6.10b_CompatibilitySafe.zip
-sha256=0de5273f72eabe6e48b2ae4d91b46552cc676ac1ac31e282eccb39f691baebb4
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_Lab_v6.11_NoLicenseInfoMenu.zip
+sha256=a060ee20a372f354ffd497b4bee643181f4d375585c854be3c8d751693f8ec4a
 require_blacklist=0
-note=Keeps Dochoithuvi-Pro v6.8 main tool and Lab v6.10, with compatibility stubs for old Basic/PPW4 touch engine filenames.
+note=Keeps Dochoithuvi-Pro main v6.8, removes license/serial info menu only, keeps license.key requirement, and embeds Lab v6.11.
