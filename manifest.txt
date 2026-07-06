@@ -1,11 +1,10 @@
-version=8.1
-display_version=6.8
-build=20260704-v81-ota-compat-v68-smartprofile-tuned
-display_build=20260704-v68-smartprofile-tuned-from-report
+version=8.3
+display_version=6.8.3
+build=20260706-v683-keep-main-lab-v69
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_SmartProfile_Tuned_ReportOptimized.zip
-sha256=37e5cb930f881d39222fb5a4ddbd4f5a6fd62cccfe92da1ed5023946227a568a
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8.3_KeepMain_Lab_v6.9.zip
+sha256=bac6e6486eec567071bd3549c857e2553b3df9b1a29de009b8a195bd20580d69
 require_blacklist=0
-note=User-facing v6.8 SmartProfile Tuned. Optimized from REPORT.zip: better event detection, gentler MILD, HardwareSuspect no lock on QUIET/MILD, and one Fix Touch report only.
+note=Based on user-provided Dochoithuvi-Pro v6.8. Keeps main tool and updates embedded Lab to v6.9.
