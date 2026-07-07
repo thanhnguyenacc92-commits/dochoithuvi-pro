@@ -1,10 +1,10 @@
-version=8.5
+version=8.7
 display_version=6.8
-build=20260707-v68-lab-v611-no-license-info-menu
+build=20260707-v68-main-event-patch-lab-v613
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_Lab_v6.11_NoLicenseInfoMenu.zip
-sha256=a060ee20a372f354ffd497b4bee643181f4d375585c854be3c8d751693f8ec4a
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_MainPatch_Lab_v6.13.zip
+sha256=a3afc8239123a206e6f873619087aa2080767202b5763db21e53d723e9adf88a
 require_blacklist=0
-note=Keeps Dochoithuvi-Pro main v6.8, removes license/serial info menu only, keeps license.key requirement, and embeds Lab v6.11.
+note=Keeps display version 6.8. Patches main 1-Click event_node fallback for Basic Goodix event1 and embeds compact Lab v6.13.
