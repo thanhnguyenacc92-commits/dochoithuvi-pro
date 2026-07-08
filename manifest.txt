@@ -1,10 +1,10 @@
-version=9.0
+version=9.1
 display_version=6.8
-build=20260708-v68-lab-v615b-update-common-fix
+build=20260708-v68-mainpatch-nolab
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_MainPatch_Lab_v6.15b_UpdateCommonFix.zip
-sha256=d6faca9f5e0e713440d5d4d60fed2e25d596020889f172becb5889b11b040cdd
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_MainPatch_NoLab.zip
+sha256=0d9d38877a8e7b7fa764ddfad693dc741277ea02ea9b6cd9f9d270270985fb61
 require_blacklist=0
-note=Keeps display version 6.8. Fixes missing online_update_common.sh error.
+note=Keeps display version 6.8. Removes all DCPRO Lab menu/scripts, keeps main tool, event1 patch, and online_update_common fix.
