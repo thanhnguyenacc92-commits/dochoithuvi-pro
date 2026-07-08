@@ -1,10 +1,10 @@
-version=8.9
+version=9.0
 display_version=6.8
-build=20260707-v68-mainpatch-lab-v615-remove7-9
+build=20260708-v68-main-safe-reports-no-lab
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_MainPatch_Lab_v6.15_Remove7_9.zip
-sha256=9fae00ca8f30c01425fa6c7b731278ce5d2539a8d563a94882ec38e0ca32c09a
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_Main_SafeReports_NoLab.zip
+sha256=526ea082ed9cce536fe01d8532584402a89e14a3b58da96ddc91f4ae80bb810a
 require_blacklist=0
-note=Keeps display version 6.8. Removes Bluetooth Lab and Reading Page Simulation from Lab.
+note=Commercial main build. No Lab. Reports go to /mnt/us/DCPRO_REPORTS.
