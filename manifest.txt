@@ -1,10 +1,10 @@
-version=9.1
+version=9.3
 display_version=6.8
-build=20260708-v68-mainpatch-nolab
+build=20260708-v68-event1patch-no-license-info-menu
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_MainPatch_NoLab.zip
-sha256=0d9d38877a8e7b7fa764ddfad693dc741277ea02ea9b6cd9f9d270270985fb61
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_Event1Patch_NoLicenseInfoMenu.zip
+sha256=4f38a232d9b00189efaa59e04ddcf45f4cde95b5cf31e9492effbaeaa745ad00
 require_blacklist=0
-note=Keeps display version 6.8. Removes all DCPRO Lab menu/scripts, keeps main tool, event1 patch, and online_update_common fix.
+note=Clean Dochoithuvi-Pro v6.8 without Lab. Patches 1-Click event1 fallback and removes the License/Copyright info menu only. license.key requirement remains unchanged.
