@@ -1,10 +1,10 @@
 version=9.0
 display_version=6.8
-build=20260708-v68-main-safe-reports-no-lab
+build=20260708-v68-lab-v615b-update-common-fix
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_Main_SafeReports_NoLab.zip
-sha256=526ea082ed9cce536fe01d8532584402a89e14a3b58da96ddc91f4ae80bb810a
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v6.8_MainPatch_Lab_v6.15b_UpdateCommonFix.zip
+sha256=d6faca9f5e0e713440d5d4d60fed2e25d596020889f172becb5889b11b040cdd
 require_blacklist=0
-note=Commercial main build. No Lab. Reports go to /mnt/us/DCPRO_REPORTS.
+note=Keeps display version 6.8. Fixes missing online_update_common.sh error.
