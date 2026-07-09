@@ -1,0 +1,10 @@
+version=8.6
+display_version=8.6
+build=20260709-v86-bugfix-stable
+channel=stable
+min_version=4.3
+root_folder=Dochoithuvi-Pro-Secret-Edition
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v8.6_BugFix_Stable.zip
+sha256=af49bcae8153ebc9538d7d30497ff9f355d05e4a0336e9c60a6b4fbc56b6eedc
+require_blacklist=0
+note=Dochoithuvi-Pro v8.6 BugFix Stable based on uploaded v6.8 Final. No Lab. Event1 patch, common-file compatibility fixes, no license info menu.
