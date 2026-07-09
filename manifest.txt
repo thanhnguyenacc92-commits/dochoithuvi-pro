@@ -1,0 +1,10 @@
+version=8.6.2
+display_version=8.6.2
+build=20260709-v862-nokey-oldreport-analysis
+channel=stable
+min_version=4.3
+root_folder=Dochoithuvi-Pro-Secret-Edition
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v8.6.2_NoKey_OldReportAnalysis.zip
+sha256=46beaeb804566badec74e9fcff068b8f4bf6d04f139d552dbb832a6affcf0169
+require_blacklist=0
+note=No bundled .key files. Auto Touch Analysis parses existing 1-Click report and live data.
