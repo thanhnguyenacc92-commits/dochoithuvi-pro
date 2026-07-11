@@ -1,10 +1,10 @@
-version=8.6.2
-display_version=8.6.2
-build=20260709-v862-nokey-oldreport-analysis
+version=8.6.3
+display_version=8.6.3
+build=20260710-v863-analysis-singleton-fix
 channel=stable
 min_version=4.3
 root_folder=Dochoithuvi-Pro-Secret-Edition
-url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v8.6.2_NoKey_OldReportAnalysis.zip
-sha256=46beaeb804566badec74e9fcff068b8f4bf6d04f139d552dbb832a6affcf0169
+url=https://raw.githubusercontent.com/thanhnguyenacc92-commits/dochoithuvi-pro/main/Dochoithuvi-Pro_v8.6.3_AnalysisSingletonFix.zip
+sha256=e54af6af0d9903ffbef95123c400e7dc27d1502455b52f4586f2548f26608a73
 require_blacklist=0
-note=No bundled .key files. Auto Touch Analysis parses existing 1-Click report and live data.
+note=Fixes duplicated 1-Click daemon, analysis IRQ false positive, and EVDEV-heavy live classification. No bundled .key.
