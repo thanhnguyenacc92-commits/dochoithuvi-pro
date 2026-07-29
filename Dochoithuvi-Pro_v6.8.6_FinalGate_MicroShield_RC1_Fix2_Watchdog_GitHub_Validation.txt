@@ -1,0 +1,77 @@
+DOCHOITHUVI-PRO v6.8.6 FINALGATE MICROSHIELD RC1 FIX2 WATCHDOG
+GITHUB PUBLIC RELEASE VALIDATION
+================================================================
+
+BUILD
+-----
+Build: 20260729-v686-finalgate-microshield-rc1-fix2-watchdog-github-public
+OTA version: 8.3
+Minimum online-update source version: 8.2
+GitHub tag: v6.8.6-finalgate-fix2
+Release ZIP: Dochoithuvi-Pro_v6.8.6_FinalGate_MicroShield_RC1_Fix2_Watchdog_GitHub_Public.zip
+Release SHA-256: 5576a171d14ab07fa2b1403337223ea93e1fd082f383048b84cbc0f6ebb7a778
+Public key fingerprint SHA-256: 62047dcaffda01946d9d63623d17a1571dd1c40b2721bdb0215d9a9d122183a8
+
+PHYSICAL REPORT ROOT CAUSE
+--------------------------
+Observed Watchdog kills on active FinalGate installations:
+- STALE_HEARTBEAT age 1569 seconds
+- STALE_HEARTBEAT age 1551 seconds
+STOP reports then showed engine/watchdog already absent.
+The engine report also showed large heartbeat gaps while the engine continued
+processing Goodix contacts. Therefore stale heartbeat is not a valid standalone
+hang signal: read() may sleep normally while the Kindle is idle.
+
+FIX2 POLICY
+-----------
+Stale QUIET heartbeat: MONITOR ONLY
+Stale WATCH heartbeat: MONITOR ONLY
+Stale SAFETY_PAUSE heartbeat: MONITOR ONLY
+Kill solely because an idle heartbeat is stale: FORBIDDEN
+Missing initial heartbeat grace: 30 seconds
+Missing initial heartbeat confirmation: 2 consecutive checks
+MICRO_GATE stale limit: 12 seconds
+MICRO_GATE confirmation source: last persistent GATE_START/GATE_END/GATE_FAIL
+Stale MICRO_GATE + last GATE_END: MONITOR ONLY
+Stale MICRO_GATE + last GATE_FAIL: MONITOR ONLY
+Stale MICRO_GATE + last GATE_START/UNKNOWN: 2 checks, then fail-open kill
+Fail-open release mechanism: engine fd close releases EVIOCGRAB
+Launcher verifies Watchdog startup: YES
+Watchdog runtime heartbeat file: /tmp/dcpro_finalgate_watchdog_heartbeat.txt
+Explicit ENGINE_EXIT_REASON: YES
+Explicit WATCHDOG_EXIT_REASON: YES
+
+LOCAL WATCHDOG REGRESSION
+-------------------------
+Stale WATCH heartbeat (1600 s), engine remains alive: PASS
+Stale SAFETY_PAUSE heartbeat, engine remains alive: PASS
+Stale MICRO_GATE with GATE_END, engine remains alive: PASS
+Stale MICRO_GATE with unmatched GATE_START, engine killed fail-open: PASS
+Missing initial heartbeat, engine killed after confirmed grace failure: PASS
+
+STATIC / PACKAGE TESTS
+----------------------
+All shell scripts sh -n: PASS
+menu.json parse: PASS
+config.xml parse: PASS
+All KUAL menu targets present: PASS
+ARMv7 static native engine retained: PASS
+Internal BUILD_MANIFEST verification: PASS
+One top-level KUAL folder: PASS
+ZIP integrity: PASS
+Release SHA matches manifest.txt: PASS
+manifest.sig RSA-3072/SHA-256 verification: PASS
+Tampered manifest rejection: PASS
+Public key in release matches signing owner kit: PASS
+Private signing key in public ZIP: NO
+Private signing key in GitHub upload pack: NO
+Production Google Drive token in public ZIP: NO
+Original local reports preserved by uploader: YES
+Automatic Wi-Fi changes: NO
+
+PHYSICAL LIMIT
+--------------
+The Fix2 shell Watchdog logic has passed local process/heartbeat regression,
+but the final ZIP has not yet completed an extended idle run on a physical
+Kindle. After installation, leave the device idle for at least 30 minutes and
+confirm engine/watchdog remain running with no new STALE_HEARTBEAT kill.
