@@ -1,0 +1,10 @@
+version=8.5
+build=20260730-v686-finalgate-orphan-burst-live-cloud-github-lite
+channel=stable
+min_version=8.2
+root_folder=Dochoithuvi-Pro-FinalGate
+url=https://github.com/thanhnguyenacc92-commits/dochoithuvi-pro/releases/download/v6.8.6-finalgate-fix4/Dochoithuvi-Pro_v6.8.6_FinalGate_GitHub_Public.zip
+sha256=493e119aad19ffa370aea18cb39fed5df9a16bacf9cd14eed837445de78bf7cf
+blacklist_url=
+require_blacklist=0
+note=Dochoithuvi-Pro v6.8.6 FinalGate - Orphan Burst Gate and Live Cloud
